@@ -17,4 +17,3 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: aminuhussain071
           numOfAssignee: 1
-       
